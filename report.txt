@@ -1,0 +1,10 @@
+KNN report
+
+  precision    recall  f1-score   support
+
+           0       0.34      0.08      0.14      1312
+           1       0.77      0.95      0.85      4213
+
+    accuracy                           0.74      5525
+   macro avg       0.56      0.52      0.49      5525
+weighted avg       0.67      0.74      0.68      5525
